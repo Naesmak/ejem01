@@ -19,7 +19,7 @@ public class File01 {
 
 		/* FILE: clase java que se encarga de manipular ficheros y directorios */
 
-		// Constructor de la clase File
+		// Constructor de la clase File HOLA NATALIA
 
 		/*
 		 * File variableFichero= new File("ruta fichero");
